@@ -1,25 +1,22 @@
-```haskell
-████████████████████████████████████████████████████████████████
-█▌                                                            ▐█
-█▌                                                            ▐█
-█▌  MP""""""`MM                     dP                        ▐█
-█▌  M  mmmmm..M                     88                        ▐█
-█▌  M.      `YM dP    dP .d8888b. d8888P .d8888b. 88d8b.d8b.  ▐█
-█▌  MMMMMMM.  M 88    88 Y8ooooo.   88   88ooood8 88'`88'`88  ▐█
-█▌  M. .MMM'  M 88.  .88       88   88   88.  ... 88  88  88  ▐█
-█▌  Mb.     .dM `8888P88 `88888P'   dP   `88888P' dP  dP  dP  ▐█
-█▌  MMMMMMMMMMM      .88                                      ▐█
-█▌               d8888P                                       ▐█
-█▌  MM'""""'YMM oo                                            ▐█
-█▌  M' .mmm. `M                                               ▐█
-█▌  M  MMMMMooM dP 88d888b. .d8888b. .d8888b. 88d8b.d8b.      ▐█
-█▌  M  MMMMMMMM 88 88'  `88 88'  `"" 88'  `88 88'`88'`88      ▐█
-█▌  M. `MMM' .M 88 88       88.  ... 88.  .88 88  88  88      ▐█
-█▌  MM.     .dM dP dP       `88888P' `88888P' dP  dP  dP      ▐█
-█▌  MMMMMMMMMMM                                               ▐█
-█▌                                                            ▐█
-█▌                                                            ▐█
-████████████████████████████████████████████████████████████████
+```rust
+                                                  
+MP""""""`MM                   dP
+M  mmmmm..M                   88
+M.      `YM dP    d|.d8888b.d8888P _d8888b. _d8.d8.
+MMMMMMM.  M 88    8|Y8ooooo.  88   |8ooood8 8'`8'`8
+M. .MMM'  M 88.  .8|      88  88   |8.  ... 8  8  8
+Mb.     .dM `8888P8|`88888P'  dP   `88888P' P  d  d
+MMMMMMMMMMM      .8|
+              d8888|
+
+MM'""""'YMM oo
+M' .mmm. `M
+M  MMMMMooM dP 88d888b. .d8888b. .d8888b. 88d8b.d8b.
+M  MMMMMMMM 88 88'  `88 88'  `"" 88'  `88 88'`88'`8|
+M. `MMM' .M 88 88       88.  ... 88.  .88 88  88  8|
+MM.     .dM dP dP       `88888P' `88888P' dP  dP  d|
+MMMMMMMMMMM
+
 ```
 
 > [!Important]
